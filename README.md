@@ -23,12 +23,12 @@ iDownloader
 
 > 启动后，根据config.js中配置的共享路径，服务器将会列出共享文件夹的全部内容
 
-![test](http://git-cache.oss-cn-qingdao.aliyuncs.com/doomdagger/iDownloader/1.png)
+![test](https://raw.githubusercontent.com/doomdagger/images/master/iDownloader/pic-1.jpg)
 
 > 文件夹项的后面多出的下载按钮可以用来以压缩包形式下载整个文件夹内容
 
-![test](http://git-cache.oss-cn-qingdao.aliyuncs.com/doomdagger/iDownloader/2.png)
+![test](https://raw.githubusercontent.com/doomdagger/images/master/iDownloader/pic-2.jpg)
 
 > 也可以点击文件夹进入子文件夹，系统会列出当前所在路径信息
 
-![test](http://git-cache.oss-cn-qingdao.aliyuncs.com/doomdagger/iDownloader/3.png)
+![test](https://raw.githubusercontent.com/doomdagger/images/master/iDownloader/pic-3.jpg)
